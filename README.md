@@ -24,6 +24,16 @@ I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS
 ![](https://github-readme-stats.vercel.app/api?username=EZ4BYG&show_icons=true&theme=chartreuse-dark&hide_border=true) | ![](https://streak-stats.demolab.com?user=EZ4BYG&theme=chartreuse-dark&hide_border=true)
 ---|---
 
+### 📝 My latest posts
+
+- 🔥Test 1
+
+  *Description 1*
+
+- 🔥Test 2
+
+  *Description 2*
+
 
 <!--
 **EZ4BYG/EZ4BYG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
