@@ -6,11 +6,11 @@ I'm Boyu, a Geophysicist from China, currently living in the Netherlands.
 
 ### 🎍 Things I code with
 
-[![My Skills](https://skillicons.dev/icons?i=py,matlab,cpp,r,fortran,tensorflow,pytorch,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,matlab,r,tensorflow,pytorch,mysql)](https://skillicons.dev)
 
 ### 🎋 Things I familiar with 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,linux,ai,ps,pr,md,latex,docker,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,fortran,vscode,vim,linux,ai,ps,pr,md,latex,docker,github,git)](https://skillicons.dev)
 
 ### 🔓 Open source projects
 
