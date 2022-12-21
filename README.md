@@ -14,12 +14,12 @@ I'm Boyu, a Geophysicist from China, currently living in the Netherlands.
 
 ### 🔓 Open source projects
 
-|                          ⚡ Projects                          |                     ⭐ Stars                      |                     📚 Forks                     |                     🛎️ Issues                      |
-| :----------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
-| [Local and Global Optimization Algorithms](https://github.com/EZ4BYG/Func_Opt) | ![](https://img.shields.io/badge/stars-158-blue) | ![](https://img.shields.io/badge/forks-76-blue) | ![](https://img.shields.io/badge/issues-1-yellow) |
-| [Signal Processing Toolbox](https://github.com/EZ4BYG/Signal_Tools) | ![](https://img.shields.io/badge/stars-64-blue)  | ![](https://img.shields.io/badge/forks-26-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |
-| [Numerical Analysis and Iterative Solution Toolbox](https://github.com/EZ4BYG/Num_Func) | ![](https://img.shields.io/badge/stars-40-blue)  | ![](https://img.shields.io/badge/forks-18-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |
-| [U-Net to Extract Sand Dunes from Satellite Images](https://github.com/EZ4BYG/DL_Apps) | ![](https://img.shields.io/badge/stars-20-blue)  | ![](https://img.shields.io/badge/forks-10-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |
+|                          ⚡ Projects                          |                     ⭐ Stars                      |                     📚 Forks                     |                     🛎️ Issues                      |                          🏷️ Language                          |
+| :----------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------: |
+| [Local and Global Optimization Algorithms](https://github.com/EZ4BYG/Func_Opt) | ![](https://img.shields.io/badge/stars-158-blue) | ![](https://img.shields.io/badge/forks-76-blue) | ![](https://img.shields.io/badge/issues-1-yellow) | ![](https://img.shields.io/badge/Matlab-40%25-orange) ![](https://img.shields.io/badge/Python-60%25-blue) |
+| [Signal Processing Toolbox](https://github.com/EZ4BYG/Signal_Tools) | ![](https://img.shields.io/badge/stars-64-blue)  | ![](https://img.shields.io/badge/forks-26-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |    ![](https://img.shields.io/badge/Matlab-100%25-orange)    |
+| [Numerical Analysis and Iterative Solution Toolbox](https://github.com/EZ4BYG/Num_Func) | ![](https://img.shields.io/badge/stars-40-blue)  | ![](https://img.shields.io/badge/forks-18-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |    ![](https://img.shields.io/badge/Matlab-100%25-orange)    |
+| [U-Net to Extract Sand Dunes from Satellite Images](https://github.com/EZ4BYG/DL_Apps) | ![](https://img.shields.io/badge/stars-20-blue)  | ![](https://img.shields.io/badge/forks-10-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |     ![](https://img.shields.io/badge/Python-100%25-blue)     |
 
 ![Boyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZ4BYG&show_icons=true&theme=radical)
 
