@@ -26,6 +26,8 @@ I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS
     <img src="https://streak-stats.demolab.com?user=EZ4BYG&theme=chartreuse-dark" width="400"/> 
 </center>
 
+![](https://github-readme-stats.vercel.app/api?username=EZ4BYG&show_icons=true&theme=chartreuse-dark) | ![](https://streak-stats.demolab.com?user=EZ4BYG&theme=chartreuse-dark)
+---|---
 
 
 <!--
