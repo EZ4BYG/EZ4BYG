@@ -21,7 +21,7 @@ I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS
 | [Numerical Analysis and Iterative Solution Toolbox](https://github.com/EZ4BYG/Num_Func) | ![](https://img.shields.io/badge/stars-40-blue)  | ![](https://img.shields.io/badge/forks-18-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |    ![](https://img.shields.io/badge/Matlab-100%25-blueviolet)    |
 | [U-Net to Extract Sand Dunes from Satellite Images](https://github.com/EZ4BYG/DL_Apps) | ![](https://img.shields.io/badge/stars-20-blue)  | ![](https://img.shields.io/badge/forks-10-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |     ![](https://img.shields.io/badge/Python-100%25-blue) ![](https://img.shields.io/badge/Tensorflow-v2.2-%23FF6F00)    |
 
-![Boyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZ4BYG&show_icons=true&theme=chartreuse-dark)[![GitHub Streak](https://streak-stats.demolab.com?user=EZ4BYG&theme=chartreuse-dark)](https://git.io/streak-stats)
+![Boyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EZ4BYG&show_icons=true&theme=chartreuse-dark)![GitHub Streak](https://streak-stats.demolab.com?user=EZ4BYG&theme=chartreuse-dark)
 
 
 
