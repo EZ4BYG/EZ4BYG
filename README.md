@@ -14,7 +14,7 @@ I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS
 
 ### 🔓 Open source projects
 
-|                          ⚡ Projects                          |                     ⭐ Stars                      |                     📚 Forks                     |                     🛎️ Issues                      |                          🏷️ Language                          |
+|                          ⚡ Projects                          |                     ⭐ Stars                      |                     📚 Forks                     |                     🛎️ Issues                      |                          🏷️ Languages                          |
 | :----------------------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: | :----------------------------------------------------------: |
 | [Local and Global Optimization Algorithms](https://github.com/EZ4BYG/Func_Opt) | ![](https://img.shields.io/badge/stars-158-blue) | ![](https://img.shields.io/badge/forks-76-blue) | ![](https://img.shields.io/badge/issues-1-yellow) | ![](https://img.shields.io/badge/Matlab-40%25-blueviolet) ![](https://img.shields.io/badge/Python-60%25-blue) |
 | [Signal Processing Toolbox](https://github.com/EZ4BYG/Signal_Tools) | ![](https://img.shields.io/badge/stars-64-blue)  | ![](https://img.shields.io/badge/forks-26-blue) |   ![](https://img.shields.io/badge/issues-0-g)    |    ![](https://img.shields.io/badge/Matlab-100%25-blueviolet)    |
