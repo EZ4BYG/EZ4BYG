@@ -1,6 +1,6 @@
 ## ![](https://github.com/EZ4BYG/Reading_Record/blob/master/d32.gif) Hey! Nice to see you.
 
-I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS-zV4rrykwRiqOwTyAfuK6dXO9fIpAp_lWGTbItOd9s8gyH3V-Y9lFh1dZDtYsTpX5ViWAEc-LR0Avn1klzVdmsxKqjQPMQwXdIqKu1PxUAJV41gR-bO-CGztD74usw=s16-p-k) **China**。
+I'm Boyu, a Geophysicist from ![](https://lh3.googleusercontent.com/Pvm5aEGzaooS-zV4rrykwRiqOwTyAfuK6dXO9fIpAp_lWGTbItOd9s8gyH3V-Y9lFh1dZDtYsTpX5ViWAEc-LR0Avn1klzVdmsxKqjQPMQwXdIqKu1PxUAJV41gR-bO-CGztD74usw=s16-p-k) **China**.
 
 ![Vistors](https://komarev.com/ghpvc/?username=your-github-EZ4BYG&color=brightgreen)
 
